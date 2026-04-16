@@ -54,8 +54,13 @@ Breakdown of ratings across cleanliness, accuracy, communication, location, and 
 
 ---
 
-## Project Files  
+## Project Files   
 
 - [View Dashboard (PDF)](./dashboard.pdf)  
-- [DAX Measures](./dax-measures.xlsx)  
+  Complete overview of the final Airbnb business performance dashboard with all visuals and insights.
+
+- [DAX Measures](./powerbi-dax-measures.xlsx)  
+  Contains key DAX calculations used to create KPIs, filtering logic, ranking and columns in the dashboard.
+
 - [Power BI Template](./Business-Performance-Dashboard.pbit)  
+  Template file of the dashboard including data model, relationships, and report structure.
