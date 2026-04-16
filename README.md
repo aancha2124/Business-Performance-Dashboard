@@ -51,3 +51,11 @@ Displays city-wise average ratings for quick comparison.
 ### Ratings – Detailed View  
 ![Detailed Rating](./detailed-rating.png)  
 Breakdown of ratings across cleanliness, accuracy, communication, location, and value.
+
+---
+
+## Project Files  
+
+- [View Dashboard (PDF)](./dashboard.pdf)  
+- [DAX Measures](./dax-measures.xlsx)  
+- [Power BI Template](./Business-Performance-Dashboard.pbit)  
