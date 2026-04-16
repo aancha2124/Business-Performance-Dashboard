@@ -41,7 +41,7 @@ Includes data on listings, hosts, reviews, pricing, and cities.
 ## Dashboard Preview  
 
 ### Overview  
-![Overview](./overview.png)
+![Overview](./Overview.png)
 
 ### Ratings – Overall View  
 ![Overall Rating](./overall-rating.png)
