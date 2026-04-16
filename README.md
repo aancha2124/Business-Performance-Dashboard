@@ -41,10 +41,13 @@ Includes data on listings, hosts, reviews, pricing, and cities.
 ## Dashboard Preview  
 
 ### Overview  
-![Overview](./Overview.png)
+![Overview](./Overview.png)  
+Shows overall KPIs and listing growth trends over time.
 
 ### Ratings – Overall View  
-![Overall Rating](./overall-rating.png)
+![Overall Rating](./overall-rating.png)  
+Displays city-wise average ratings for quick comparison.
 
 ### Ratings – Detailed View  
-![Detailed Rating](./detailed-rating.png)
+![Detailed Rating](./detailed-rating.png)  
+Breakdown of ratings across cleanliness, accuracy, communication, location, and value.
